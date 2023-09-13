@@ -1,0 +1,93 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  man ls
+    6  ba
+    7  sh
+    8  pwd
+    9  ls
+   10  ls --all
+   11  ls - la
+   12  ls -la
+   13  e
+   14  exit
+   15  pwd
+   16  cd .
+   17  pwd
+   18  cd ..
+   19  pwd
+   20  ls -l
+   21  ls -la
+   22  pwd
+   23  cd .
+   24  cd ..
+   25  pwd
+   26  tree
+   27  pwd
+   28  ls
+   29  ls -l
+   30  pwd
+   31  ls -la
+   32  pwd
+   33  cd .
+   34  pwd
+   35  cd ..
+   36  pwd
+   37  cd~
+   38  cd ~
+   39  pwd
+   40  cd home/
+   41  whoami 
+   42  history > history_20230913_Class_02.txt
+   43  history
+   44  history > history_20230913_Class_02.txt
+   45  man ls
+   46  ls -lt -d -- *[!0-9].txt
+   47  ls
+   48  rm -d -- *[!0-9].txt
+   49  ls
+   50* 
+   51  mkdir DEF
+   52  pw
+   53  pwd
+   54  ls
+   55  mv hihi.dat ~/DEF/
+   56  ls
+   57  ls -lt DEF/
+   58  mv DEF/hihi.dart DEF/hihihi.exe
+   59  ls -lt DEF/
+   60  rmdir DEF/
+   61  man rm
+   62  rm DEF/
+   63  ls -lt
+   64  b
+   65  whereis ls
+   66  tree
+   67  echo $PATH
+   68  whereis ls
+   69* ls lt
+   70  ls -lt
+   71  ls -lt /bin/ls
+   72  ls
+   73  /bin/ls
+   74* 
+   75  whereis ls
+   76  cat
+   77  #!/bin/bash
+   78  cd
+   79  mkdir ABC
+   80  echo "123456" > a.txt
+   81  mv a.txt ABC/b.txt
+   82  echo "789" >> ABC/b.txt
+   83  cat ABC/b.txt
+   84  echo "manas 1. komandas izpilde ir pabeigta"
+   85  s -lt
+   86  -rwxr-xr--
+   87  chmod 754
+   88  chmod mana_komanda_1.sh
+   89  chmod mana_komanda_1.sh/
+   90  mkdir TEST
+   91  cp mana_komanda_1.sh TEST/
+   92  ls -lt
+   93  history > history_20230913_Class_03.txt
