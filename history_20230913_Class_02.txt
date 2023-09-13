@@ -1,0 +1,67 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  ls
+    5  man ls
+    6  ba
+    7  sh
+    8  pwd
+    9  ls
+   10  ls --all
+   11  ls - la
+   12  ls -la
+   13  e
+   14  exit
+   15  c /
+   16  cd /
+   17  pwd
+   18  cd ~
+   19  sh
+   20  who
+   21  p[; h
+   22  cd
+   23  cd 
+   24  c
+   25  cd 
+   26  pwd
+   27  c
+   28  sh
+   29  ls
+   30  mkdir ABC
+   31  ls -lt
+   32  ls -l ABC/
+   33  ls -la ABC/
+   34  rmdir ABC/
+   35  ls -la ABC/
+   36  echo$&
+   37  ls
+   38  echo $?
+   39  rmdir ABC/
+   40  echo $?
+   41  ls
+   42  echo $?
+   43  rmdir ABC/
+   44  echo $?
+   45  echo aslfkg
+   46  echo 12345 > a.txt
+   47  ls -lt
+   48  cat a.txt
+   49  echo 123456 > a.txt
+   50  ls -lt *.txt
+   51  echo 1234567 > a.txt
+   52  cat a.txt
+   53  hexdam -C a.txt
+   54  hexdump -C a.txt
+   55  echo abcdef >> a.txt
+   56  ls -lt *.txt
+   57  cat a.txt
+   58  hexdump -C a.txt
+   59  echo "adfg"
+   60  man echo
+   61  echo -e "adf\g"
+   62  touch c.txt
+   63  ls -lt *.txt
+   64  man touch
+   65  history
+   66  history > history_29230913_Class_02.txt
+   67  history > history_20230913_Class_02.txt
