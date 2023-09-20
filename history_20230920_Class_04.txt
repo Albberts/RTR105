@@ -1,0 +1,33 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git --version
+    4  pwd
+    5  ls -lt
+    6  git clone https://github.com/albberts/RTR105
+    7  ls -lt
+    8  ls -lt RTR105
+    9  pwd
+   10  ls -lt
+   11  git clone https://github.com/albberts/RTR105
+   12  git clone https://github.com/albberts/RTR105 RTR105_VV1
+   13  ls -lt
+   14  rmdir RTR105_V1
+   15  rm RTR105_V1
+   16  rm - r  RTR105_V1
+   17  rm - r RTR105_V1
+   18  rm -rf RTR105_V1
+   19  ls -lt
+   20  cd RTR105
+   21  /RTR105 ls -lta
+   22  /RTR105/git$ ls -lt
+   23  ls -lt
+   24  pwd
+   25  ls -lt
+   26  nano git-upload
+   27  ls -lt
+   28  cat git-upload
+   29  chmod 754 git-upload
+   30  ls -lt
+   31  git-upload
+   32  ./git-upload
+   33  history > history_20230920_Class_04.txt
