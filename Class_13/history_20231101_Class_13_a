@@ -1,0 +1,87 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Albberts/RTR105
+    4  cd /RTR105
+    5  cd RTR105/
+    6  ls -lt
+    7  cd Class_13
+    8  mkdir Class_13
+    9  cd Class_13
+   10  nano
+   11  nano fscanf  
+   12  nano fopen
+   13  gcc fopen
+   14  gcc nano fopen
+   15  nano fopen
+   16  nano fopen_test.c
+   17  gcc fopen_test.c
+   18  nano fopen_test.c
+   19  gcc fopen_test.c
+   20  nano fopen_test.c
+   21  gcc fopen_test.c
+   22  nano fopen_test.c
+   23  gcc fopen_test.c
+   24  nano fopen_test.c
+   25  gcc fopen_test.c
+   26  ls -lt
+   27  rm myfile.txt
+   28  cat myfile.txt
+   29  ls -lt
+   30  rm myfile.txt
+   31  nano myfile.txt
+   32  rm myfile.txt
+   33  gcc fopen_test.c
+   34  ls -lt
+   35  .a/out
+   36  .a/a.out
+   37  ./a.out
+   38  ls -lt
+   39  nano fopen_test.c
+   40  nano fopen_test.c
+   41  gcc fopen_test.c
+   42  nano fopen_test.c
+   43  gcc fopen_test.c
+   44  nano fopen_test.c
+   45  gcc fopen_test.c
+   46  nano fopen_test.c
+   47  ls -lt
+   48  nano fclose_test.c
+   49  gcc fclose_test.c
+   50  ./a.out
+   51  ls -lt
+   52  fscan fclose_test.c
+   53  nano fprint_test.c
+   54  gcc fprint_test.c
+   55  nano fprint_test.c
+   56  gcc fprint_test.c
+   57  nano fprint_test.c
+   58  gcc fprint_test.c
+   59  nano fprint_test.c
+   60  gcc fprint_test.c
+   61  nano fprint_test.c
+   62  gcc fprint_test.c
+   63  ./a.out
+   64  ls -lt
+   65  cat myfile.txt
+   66  nano fwrite_test.c
+   67  gcc fwrite_test.c
+   68  ls -lt
+   69  ./a.out
+   70  ls -lt
+   71  hexdump -C myfile.txt.bin
+   72  hexdump -C myfile.bin
+   73  nano fwrite_test.c
+   74  gcc fwrite_test.c
+   75  ls -lt
+   76  ./a.out
+   77  ls -lt
+   78  hexdump -C myfile.bin
+   79  cat myfile.bin
+   80  nano fwrite_test.c
+   81  ls -lt
+   82  ./git.upload
+   83  git upload
+   84  git -upload
+   85  git - upload
+   86  history
+   87  history > history_20231101_Class_13_a
